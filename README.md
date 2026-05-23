@@ -111,19 +111,13 @@ for efficient data organization and analysis.
 
 ## 🌐 Live Project
 
-🔗 Add your GitHub Pages link here
-
-Example:
-https://yourusername.github.io/crop-yield-prediction/
+https://tusharparate19.github.io/crop-yield-prediction/
 
 ---
 
 ## 📂 GitHub Repository
 
-🔗 Add your repository link here
-
-Example:
-https://github.com/yourusername/crop-yield-prediction
+https://github.com/tusharparate19/crop-yield-prediction
 
 ---
 
